@@ -37,3 +37,6 @@
   "singleQuote": true,
   "arrowParens": "avoid"
 }
+
+//For style in Use scss
+npm install -D sass
