@@ -12,7 +12,7 @@
 
 // .eslintrc
 {
-  "extends": ["airbnb", "prettier"],
+  "extends": ["airbnb", "prettier","standard"],
   "env": {
     "browser": true
   },
